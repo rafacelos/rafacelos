@@ -9,17 +9,12 @@
 - Estudando HTML5, CSS3, C e JS. <br>
 - Navegando pelos meus repositórios é possivel ver um pouco do que aprendi até o momento. <br>
 <br>
-
- <div>
-   <a href="https://github.com/rafacelos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafacelos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <br>
-</div>
   
-  <div ><br>
+ <div ><br>
   <img align="center" height ="40" alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height ="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height ="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
+ </div><br>
 
 <br>
 <div> 
