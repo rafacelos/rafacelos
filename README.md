@@ -6,7 +6,8 @@
 <br>
 
 📚 Linguagens <br>
-- Estudando HTML5, CSS3, C e JS. <br>
+- HTML/CSS.
+- JS (React/Node).
 - Navegando pelos meus repositórios é possivel ver um pouco do que aprendi até o momento. <br>
 <br>
   
